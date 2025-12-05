@@ -14,17 +14,15 @@ Ideal for learning, teaching, benchmarking, or as a solid base for further exper
 
 ---
 
-## 📂 Repository Structure
-
 ML_model_implementations/
-├── CNN_NNimplementation.py # Neural network / CNN classifier (Python)
-├── DTClassifier_implementation # Decision-Tree classifier (Python)
-├── ensemble_classifier.R # Ensemble & stacking approach (R)
-├── nb_20newsgroups.R # Naive Bayes text classifier for 20 Newsgroups (R)
-├── train_data.csv # Document-word training data (for NB)
-├── train_label.csv # Labels for training data
-├── vocabulary.txt # Vocabulary list (for NB)
-└── README.md # This documentation
+├── CNN_NNimplementation.py        # Neural network / CNN classifier (Python)
+├── DTClassifier_implementation    # Decision-tree classifier (Python)
+├── ensemble_classifier.R          # Ensemble & stacking approach (R)
+├── nb_20newsgroups.R              # Naive Bayes text classifier (R)
+├── train_data.csv                 # Document-word training data
+├── train_label.csv                # Labels for training data
+├── vocabulary.txt                 # Vocabulary list (for NB)
+└── README.md                      # Documentation
 
 
 > ✏️  If file or folder names differ locally, adjust accordingly.
