@@ -1,7 +1,7 @@
 # ML Model Implementations & Assignments 🎓
 
-A curated collection of machine-learning implementations — in Python and R — covering core algorithms, ensemble methods, and a text-classification pipeline.  
-Ideal for learning, teaching, benchmarking, or as a solid base for further experimentation.
+A curated collection of machine-learning implementations in Python and R, covering core algorithms, ensemble methods, and a text-classification pipeline.  
+
 
 ---
 
